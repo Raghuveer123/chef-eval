@@ -1,0 +1,7 @@
+{
+  "id": "Docker",
+  "comment": "Docker",
+  "gid": 1,
+  "home": "/home/docker",
+  "shell": "/bin/bash"
+}
